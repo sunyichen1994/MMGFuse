@@ -1,3 +1,3 @@
 # MMGFuse
 
-The status of my manuscript is a major revision, so stay tuned!
+The status of my manuscript is Major Revision, so stay tuned!
