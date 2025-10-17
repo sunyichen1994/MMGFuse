@@ -1,3 +1,4 @@
-# MMGFuse
+# An innovative optimization strategy based on Mamba and generative adversarial networks for efficient and high-performance multimodal image fusion
 
-The status of my manuscript is Major Revision, so stay tuned!
+This is official implementation of "An innovative optimization strategy based on Mamba and generative adversarial networks for efficient and high-performance multimodal image fusion" with Pytorch.
+
