@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is official implementation of "[An innovative optimization strategy based on Mamba and generative adversarial networks for efficient and high-performance multimodal image fusion]"(https://www.sciencedirect.com/science/article/pii/S0952197625028192?dgcid=coauthor) with Pytorch.
+This is official implementation of [An innovative optimization strategy based on Mamba and generative adversarial networks for efficient and high-performance multimodal image fusion](https://www.sciencedirect.com/science/article/pii/S0952197625028192?dgcid=coauthor) with Pytorch.
 
 ## Brightness Enhancement and Texture Detail Preservation
 ![Image text](https://github.com/sunyichen1994/MMGFuse/blob/main/Figure/F1.png)
