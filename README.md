@@ -22,3 +22,30 @@ This is official implementation of [An innovative optimization strategy based on
  * timm 1.0.3
  * tqdm 4.66.4
  * pandas 2.2.2
+
+## Citation
+
+If you find this repository useful, please consider citing the following paper:
+
+```
+@article{sun2025EAAI,
+  title = {An innovative optimization strategy based on Mamba and generative adversarial networks for efficient and high-performance multimodal image fusion},
+  journal = {Engineering Applications of Artificial Intelligence},
+  volume = {163},
+  pages = {112788},
+  year = {2026},
+  issn = {0952-1976},
+  doi = {https://doi.org/10.1016/j.engappai.2025.112788},
+  url = {https://www.sciencedirect.com/science/article/pii/S0952197625028192},
+  author = {Yichen Sun and Mingli Dong and Lianqing Zhu},
+}
+```
+
+If you have any questions, feel free to contact me (sunyichen0429@163.com)
+
+## Acknowledgements
+
+Parts of this code repository is based on the following works:
+
+ * https://github.com/state-spaces/mamba
+ * https://github.com/dongyuya/TGFuse
