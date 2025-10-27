@@ -12,6 +12,10 @@ This is official implementation of [An innovative optimization strategy based on
 ## Objective Evaluation and Subjective Visual Assessments Metrics
 ![Image text](https://github.com/sunyichen1994/MMGFuse/blob/main/Figure/F2.png)
 
+## Tips
+
+The Trained Model is [here](https://pan.baidu.com/s/1bDBCxQk2E2J2LcfrrGrMyQ?pwd=MMGF).
+
 ## Recommended Environment
  * causal-conv1d 1.1.0
  * CUDA 11.8
