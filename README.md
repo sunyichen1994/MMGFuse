@@ -13,7 +13,7 @@ This is official implementation of [An innovative optimization strategy based on
 ![Image text](https://github.com/sunyichen1994/MMGFuse/blob/main/Figure/F2.png)
 
 ## Framework
-![Image text](http://github.com/sunyichen1994/MMGFuse/blob/main/Figure/F3.png)
+![Image text](https://github.com/sunyichen1994/MMGFuse/blob/main/Figure/F3.jpg)
 
 ## Tips
 
