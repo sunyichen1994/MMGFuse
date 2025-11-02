@@ -17,7 +17,7 @@ This is official implementation of [An innovative optimization strategy based on
 
 ## Tips
 
-The Trained Model is [here](https://pan.baidu.com/s/1bDBCxQk2E2J2LcfrrGrMyQ?pwd=MMGF).
+
 
 ## Recommended Environment
  * causal-conv1d 1.1.0
