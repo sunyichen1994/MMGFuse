@@ -16,7 +16,7 @@ This is official implementation of [An innovative optimization strategy based on
 ![Image text](https://github.com/sunyichen1994/MMGFuse/blob/main/Figure/F3.jpg)
 
 ## Tips
-The Trained Model is [here](https://pan.baidu.com/s/11hYQvGbKeEPVdTuTPvtVrg?pwd=MMGF)
+The Trained Model is [here](https://pan.baidu.com/s/11hYQvGbKeEPVdTuTPvtVrg?pwd=MMGF).
 
 
 ## Recommended Environment
